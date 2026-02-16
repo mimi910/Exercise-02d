@@ -14,7 +14,9 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 
 ## References
 
-None
+music: https://www.youtube.com/watch?v=Yu5t00R7TOg
+
+
 
 ## Future Development
 
@@ -23,4 +25,12 @@ None
 ## Created by
 
 Michelle Garcia
+
+
+
+## Project implementation: 
+
+
+
+##### Art created by me: 2, Background by me: 1, Music: 1, Particals on main menu and on ship: 1 
 
