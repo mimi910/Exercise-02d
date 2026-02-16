@@ -28,9 +28,9 @@ Michelle Garcia
 
 
 
-## Project implementation: 
+## Project implementation:
 
 
 
-##### Art created by me: 2, Background by me: 1, Music: 1, Particals on main menu and on ship: 1 
+##### Art created by me: 2, Background by me: 1, Music: 1, Particals on main menu and on ship: 1, Game mode: endless runner 
 
